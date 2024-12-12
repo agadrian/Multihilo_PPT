@@ -7,7 +7,6 @@ public class PiedraPapelTijera_MultiHilo
     private static string[] elecciones = new string[16];
     private static Random random = new Random();
     
-    private static object bloqueo = new object();
 
     
     
